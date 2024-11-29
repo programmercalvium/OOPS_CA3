@@ -1,0 +1,1498 @@
+[
+  {
+    "title": "OOP_CA3_Q1",
+        "content": "What is NOT true about parameterized constructors?",
+        "type": "mcq",
+        "difficulty": "easy",
+        "points": { "correct": 1, "incorrect": 0 },
+        "choices": [
+          {
+            "content": "They must have at least one parameter",
+            "id": "04629a00-5b2f-4f91-9c3d-8c7ee821c776",
+            "is_correct": false
+          },
+          {
+            "content": "They are automatically provided by the compiler",
+            "id": "e979ace4-dcf7-4000-8e39-31f046788fde",
+            "is_correct": true
+          },
+          {
+            "content": "They allow objects to be initialized with specific values",
+            "id": "f228f972-03f3-46e3-9bda-25937d1a1c09",
+            "is_correct": false
+          },
+          {
+            "content": "They can have default values",
+            "id": "3d6d1da8-b59c-4784-a48e-2b0ea8a87be4",
+            "is_correct": false
+          }
+        ]
+      
+  },
+  {
+    "title": "OOP_CA3_Q2",
+        "content": "Why is encapsulation considered a good practice?",
+        "type": "mcq",
+        "difficulty": "easy",
+        "points": { "correct": 1, "incorrect": 0 },
+        "choices": [
+          {
+            "content": "It reduces code complexity",
+            "id": "a79b449a-eb1f-469d-aea7-2f0a28ff8a56",
+            "is_correct": false
+          },
+          {
+            "content": "It enhances data integrity and security",
+            "id": "732fd0c4-0169-47e1-a94b-2bcfb4d16830",
+            "is_correct": false
+          },
+          {
+            "content": "Both A and B",
+            "id": "928194f5-57cd-4dab-aec9-e3cbcf4e2347",
+            "is_correct": true
+          },
+          {
+            "content": "Neither A nor B",
+            "id": "fb2ac54d-d56d-4c52-a1bc-2da1547284c8",
+            "is_correct": false
+          }
+        ]
+      
+  },
+  {
+    "title": "OOP_CA3_Q3",
+        "content": "What is the result of encapsulating data in a class?",
+        "type": "mcq",
+        "difficulty": "easy",
+        "points": { "correct": 1, "incorrect": 0 },
+        "choices": [
+          {
+            "content": "Data can be manipulated without restriction",
+            "id": "a972d43b-b602-475f-aba2-1b9053840046",
+            "is_correct": false
+          },
+          {
+            "content": "Data is hidden and can only be accessed via methods",
+            "id": "dfdc290e-9965-4e38-9a84-a36437d8831e",
+            "is_correct": true
+          },
+          {
+            "content": "Data becomes public",
+            "id": "12dc9f74-9917-45b2-b125-a485b502b9aa",
+            "is_correct": false
+          },
+          {
+            "content": "None of the above",
+            "id": "e1b6a56e-7e47-4338-b932-a2aec1117690",
+            "is_correct": false
+          }
+        ]
+      
+  },
+  {
+    "title": "OOP_CA3_Q4",
+        "content": "Which constructor is created by the compiler if no constructors are defined?",
+        "type": "mcq",
+        "difficulty": "easy",
+        "points": { "correct": 1, "incorrect": 0 },
+        "choices": [
+          {
+            "content": "Default constructor",
+            "id": "3b608a1c-26c9-4047-87b4-d43631f6b4db",
+            "is_correct": true
+          },
+          {
+            "content": "Parameterized constructor",
+            "id": "019d5513-1938-4d63-9f7c-33ef6df57044",
+            "is_correct": false
+          },
+          {
+            "content": "Copy constructor",
+            "id": "fe4dcc75-76ac-413b-8a53-27f86f939a19",
+            "is_correct": false
+          },
+          {
+            "content": "None of the above",
+            "id": "9a8f17e6-e624-4cd7-b3a3-898d1ee56c6d",
+            "is_correct": false
+          }
+        ]
+      
+  },
+  {
+    "title": "OOP_CA3_Q5",
+        "content": "How many destructors can a class have in C++?",
+        "type": "mcq",
+        "difficulty": "easy",
+        "points": { "correct": 1, "incorrect": 0 },
+        "choices": [
+          {
+            "content": "Only one",
+            "id": "2524a8fe-510f-4757-8ae8-4f5206897b73",
+            "is_correct": true
+          },
+          {
+            "content": "As many as needed",
+            "id": "3b8db6cd-41b8-44a2-8e0f-b1dfd5738793",
+            "is_correct": false
+          },
+          {
+            "content": "None",
+            "id": "6e422e56-e5ba-427d-811c-b3edf3de9547",
+            "is_correct": false
+          },
+          {
+            "content": "Two",
+            "id": "ed8d0ca1-00e7-46fe-bed4-a09867bb2bf8",
+            "is_correct": false
+          }
+        ]
+      
+  },
+  {
+    "title": "OOP_CA3_Q6",
+        "content": "What must a destructor not have?",
+        "type": "mcq",
+        "difficulty": "easy",
+        "points": { "correct": 1, "incorrect": 0 },
+        "choices": [
+          {
+            "content": "Parameters",
+            "id": "8eda767e-6a02-4cf7-b9a3-6bda6e4cc01a",
+            "is_correct": false
+          },
+          {
+            "content": "A return type",
+            "id": "fdda4283-4bad-4df9-9400-12e11f1dcb7b",
+            "is_correct": false
+          },
+          {
+            "content": "A body",
+            "id": "b4d42df9-c17c-4e8f-9dab-08e1fe031542",
+            "is_correct": false
+          },
+          {
+            "content": "Both A and B",
+            "id": "5ba747e9-dc56-42fc-a2b9-5f1091395414",
+            "is_correct": true
+          }
+        ]
+      
+  },
+  {
+    "title": "OOP_CA3_Q7",
+        "content": "What does a destructor do?",
+        "type": "mcq",
+        "difficulty": "easy",
+        "points": { "correct": 1, "incorrect": 0 },
+        "choices": [
+          {
+            "content": "Allocates memory for objects",
+            "id": "22da3687-a94c-4c98-84d3-cc2e5d4014df",
+            "is_correct": false
+          },
+          {
+            "content": "Initializes object members",
+            "id": "90288335-00fb-4661-8919-195e3eaa1099",
+            "is_correct": false
+          },
+          {
+            "content": "Frees resources and performs cleanup",
+            "id": "f21f101a-e8cb-4614-b9d3-802cd0cfd12b",
+            "is_correct": true
+          },
+          {
+            "content": "Generates an error message",
+            "id": "d3f0eb59-3153-47bd-8850-1edd17f1c998",
+            "is_correct": false
+          }
+        ]
+      
+  },
+  {
+    "title": "OOP_CA3_Q8",
+        "content": "What is the main reason for using encapsulation in programming?",
+        "type": "mcq",
+        "difficulty": "easy",
+        "points": { "correct": 1, "incorrect": 0 },
+        "choices": [
+          {
+            "content": "To make the program run faster",
+            "id": "e4e7d78b-9c28-458d-8ff0-c93117d5c93b",
+            "is_correct": false
+          },
+          {
+            "content": "To hide complex details and protect data",
+            "id": "33a38645-7d59-437a-96d4-086d4bfb23ee",
+            "is_correct": true
+          },
+          {
+            "content": "To allow all parts of the program to access data",
+            "id": "8ee6953b-bf2a-4334-a6d6-91d67afd22f7",
+            "is_correct": false
+          },
+          {
+            "content": "To simplify code duplication",
+            "id": "535177db-4129-4d14-bfc9-166ea557f1fa",
+            "is_correct": false
+          }
+        ]
+      
+  },
+  {
+    "title": "OOP_CA3_Q9",
+        "content": "In which scenario is a copy constructor NOT called?",
+        "type": "mcq",
+        "difficulty": "easy",
+        "points": { "correct": 1, "incorrect": 0 },
+        "choices": [
+          {
+            "content": "When an object is created from another object",
+            "id": "f68fc30a-71d1-4838-999b-be922fd7a183",
+            "is_correct": false
+          },
+          {
+            "content": "When an object is assigned to another existing object",
+            "id": "bbed7b82-8da6-4bdf-b113-61104ae520e3",
+            "is_correct": true
+          },
+          {
+            "content": "When passing an object by reference",
+            "id": "c52366b8-0a30-4b42-bc02-378040d1c861",
+            "is_correct": false
+          },
+          {
+            "content": "When an object is passed by value",
+            "id": "f25b84dd-13c8-44e2-aee3-09628044da7a",
+            "is_correct": false
+          }
+        ]
+      
+  },
+  {
+    "title": "OOP_CA3_Q10",
+        "content": "Which of the following is a correct way to initialize an object in C++?",
+        "type": "mcq",
+        "difficulty": "easy",
+        "points": { "correct": 1, "incorrect": 0 },
+        "choices": [
+          {
+            "content": "Using a member initializer list",
+            "id": "fd29e553-fb24-4ec3-a40c-1dd063a6cb79",
+            "is_correct": false
+          },
+          {
+            "content": "Using assignment inside the constructor body",
+            "id": "554a6556-0f0a-4e78-8e34-3fbc6c1a037b",
+            "is_correct": false
+          },
+          {
+            "content": "Both A and B",
+            "id": "0d2d81db-7c74-46da-93cc-c4e0020e55f2",
+            "is_correct": true
+          },
+          {
+            "content": "Neither A nor B",
+            "id": "20a52e92-0f75-4c46-bd41-69fcf907b5b2",
+            "is_correct": false
+          }
+        ]
+      
+  },
+  {
+    "title": "OOP_CA3_Q11",
+        "content": "What is the main purpose of access modifiers in encapsulation?",
+        "type": "mcq",
+        "difficulty": "easy",
+        "points": { "correct": 1, "incorrect": 0 },
+        "choices": [
+          {
+            "content": "To restrict access to class components",
+            "id": "99210acb-9ffb-4b0a-923f-9568e49fb348",
+            "is_correct": true
+          },
+          {
+            "content": "To increase access to class components",
+            "id": "f9ee763a-458d-450d-86d5-aeb46e5a22ea",
+            "is_correct": false
+          },
+          {
+            "content": "To notify users about errors",
+            "id": "b10737e2-1350-46f6-bcc1-f177f4cdc044",
+            "is_correct": false
+          },
+          {
+            "content": "To document code",
+            "id": "5b72edc8-117a-448d-89c0-c74d61ee46bb",
+            "is_correct": false
+          }
+        ]
+  
+  },
+  {
+    "title": "OOP_CA3_Q12",
+        "content": "What does an accessor method do?",
+        "type": "mcq",
+        "difficulty": "easy",
+        "points": { "correct": 1, "incorrect": 0 },
+        "choices": [
+          {
+            "content": "Changes the value of a variable",
+            "id": "544cb639-cfb2-43d1-926e-5bf14a0350e9",
+            "is_correct": false
+          },
+          {
+            "content": "Retrieves the value of a variable",
+            "id": "fa46831f-550c-448e-b574-7bb9a4fa10b1",
+            "is_correct": true
+          },
+          {
+            "content": "Initializes the value of a variable",
+            "id": "502ec460-52b0-44ac-8ad8-a95b14794782",
+            "is_correct": false
+          },
+          {
+            "content": "None of the above",
+            "id": "2a0d37fa-ae84-4843-b50b-a297803902ed",
+            "is_correct": false
+          }
+        ]
+  },
+  {
+    "title": "OOP_CA3_Q13",
+        "content": "What does a mutator method do?",
+        "type": "mcq",
+        "difficulty": "easy",
+        "points": { "correct": 1, "incorrect": 0 },
+        "choices": [
+          {
+            "content": "Retrieves the value of a variable",
+            "id": "148a242e-7dd7-40e3-93b2-13383202bc20",
+            "is_correct": false
+          },
+          {
+            "content": "Changes the value of a variable",
+            "id": "9066604c-a087-436f-9a84-ad8be08a6fca",
+            "is_correct": true
+          },
+          {
+            "content": "Deletes the value of a variable",
+            "id": "f1c8fce5-8618-4dcd-98cb-f03e4c1a2504",
+            "is_correct": false
+          },
+          {
+            "content": "Displays the value of a variable",
+            "id": "f13ea513-b7ad-4f55-a24d-f5cb1cfe0c7f",
+            "is_correct": false
+          }
+        ]
+      
+  },
+  {
+    "title": "OOP_CA3_Q14",
+        "content": "Which of the following is a benefit of encapsulation?",
+        "type": "mcq",
+        "difficulty": "easy",
+        "points": { "correct": 1, "incorrect": 0 },
+        "choices": [
+          {
+            "content": "It allows direct data manipulation",
+            "id": "4f573c84-295d-4a0f-b0e7-86a18cdc75d2",
+            "is_correct": false
+          },
+          {
+            "content": "It simplifies debugging by exposing internals",
+            "id": "df183920-585d-46e1-95f9-bdf1eda44ce8",
+            "is_correct": false
+          },
+          {
+            "content": "It prevents the accidental modification of data",
+            "id": "117ff800-c904-4331-a951-1d1b3673aab5",
+            "is_correct": true
+          },
+          {
+            "content": "It increases code complexity automatically",
+            "id": "d9b554df-0678-42ad-8759-c281ec6ee98a",
+            "is_correct": false
+          }
+        ]
+  },
+  {
+    "title": "OOP_CA3_Q15",
+        "content": "In the context of encapsulation, what is a real-world use case for a banking application?",
+        "type": "mcq",
+        "difficulty": "easy",
+        "points": { "correct": 1, "incorrect": 0 },
+        "choices": [
+          {
+            "content": "Tracking the number of employees",
+            "id": "716ceead-c274-4db2-9ed0-00420fb38a81",
+            "is_correct": false
+          },
+          {
+            "content": "Managing customer accounts securely",
+            "id": "233793c3-a75e-43e8-9a56-3c23bdce5600",
+            "is_correct": true
+          },
+          {
+            "content": "Calculating interest rates publicly",
+            "id": "9288d032-4ce7-4941-9b42-64e3a8f4e618",
+            "is_correct": false
+          },
+          {
+            "content": "None of the above",
+            "id": "dee87e38-1f50-4f9d-a275-0a14676aa9f1",
+            "is_correct": false
+          }
+        ]
+      
+  },
+  {
+    "title": "OOP_CA3_Q16",
+        "content": "Why are accessor and mutator methods important in OOP?",
+        "type": "mcq",
+        "difficulty": "easy",
+        "points": { "correct": 1, "incorrect": 0 },
+        "choices": [
+          {
+            "content": "They provide a public interface to private data",
+            "id": "322b2636-60e2-4cc8-b1c1-0abc6ef16432",
+            "is_correct": true
+          },
+          {
+            "content": "They make programming easier by reducing number of lines in code",
+            "id": "0a7d9283-8f79-4319-9e04-6acc6b2ba306",
+            "is_correct": false
+          },
+          {
+            "content": "They speed up execution",
+            "id": "750f50cb-4a8a-44f1-8b5c-96a8d2e0fa26",
+            "is_correct": false
+          },
+          {
+            "content": "They reduce memory usage",
+            "id": "f4d6ca84-fa5e-4ec0-9504-1c2c16778af6",
+            "is_correct": false
+          }
+        ]
+      
+  },
+  {
+    "title": "OOP_CA3_Q17",
+        "content": "What access modifier is typically used to hide a class member from outside access completely?",
+        "type": "mcq",
+        "difficulty": "easy",
+        "points": { "correct": 1, "incorrect": 0 },
+        "choices": [
+          {
+            "content": "Public",
+            "id": "a5df1977-0a63-4e31-9a51-0b195fdb17e6",
+            "is_correct": false
+          },
+          {
+            "content": "Private",
+            "id": "5e167976-7b9a-437d-931d-0e9ca01ca25b",
+            "is_correct": true
+          },
+          {
+            "content": "Protected",
+            "id": "0837efdc-523f-4d1d-9df9-47600281f177",
+            "is_correct": false
+          },
+          {
+            "content": "External",
+            "id": "a04547e4-9266-4ef3-8465-1b6254575e4c",
+            "is_correct": false
+          }
+        ]
+      
+  },
+  {
+    "title": "OOP_CA3_Q18",
+        "content": "Which member can directly modify a private attribute in a class?",
+        "type": "mcq",
+        "difficulty": "easy",
+        "points": { "correct": 1, "incorrect": 0 },
+        "choices": [
+          {
+            "content": "Any function",
+            "id": "b9b02a4e-dbb2-46a5-aee8-403556935511",
+            "is_correct": false
+          },
+          {
+            "content": "Only methods defined outside the class in main",
+            "id": "df5d9a72-056a-4c87-88f4-098df3e65396",
+            "is_correct": false
+          },
+          {
+            "content": "Only methods within the class",
+            "id": "e618fc04-a683-4eb9-9bde-c160785c10d2",
+            "is_correct": true
+          },
+          {
+            "content": "Only static methods",
+            "id": "165fec08-40c0-4aad-a324-c035d8fd8d43",
+            "is_correct": false
+          }
+        ]
+      
+  },
+  {
+    "title": "OOP_CA3_Q19",
+        "content": "Which of the following options describes encapsulation in OOP?",
+        "type": "mcq",
+        "difficulty": "easy",
+        "points": { "correct": 1, "incorrect": 0 },
+        "choices": [
+          {
+            "content": "Combining data and methods in a module",
+            "id": "60a1de7e-4c0c-4e02-8ac4-0a454a8b3812",
+            "is_correct": true
+          },
+          {
+            "content": "Separating a program into various functions",
+            "id": "eb9ba8f1-596e-406c-883d-cd3f6e653465",
+            "is_correct": false
+          },
+          {
+            "content": "Storing data in multiple classes",
+            "id": "57d9b823-a668-4922-9122-e122aee3e335",
+            "is_correct": false
+          },
+          {
+            "content": "None of the above",
+            "id": "378e8e64-bfd6-445a-822c-16ba8bfd2c27",
+            "is_correct": false
+          }
+        ]
+      
+  },
+  {
+    "title": "OOP_CA3_Q20",
+        "content": "Which of the following statements about accessor methods is true?",
+        "type": "mcq",
+        "difficulty": "easy",
+        "points": { "correct": 1, "incorrect": 0 },
+        "choices": [
+          {
+            "content": "Accessor methods can modify the values of private attributes.",
+            "id": "185fd9cd-0145-43ec-9f49-57c0681c19db",
+            "is_correct": false
+          },
+          {
+            "content": "Accessor methods are not needed if attributes are declared as public.",
+            "id": "5c7ab3d8-5739-4755-8976-6e1eb190aaae",
+            "is_correct": false
+          },
+          {
+            "content": "Accessor methods are used to return the values of private attributes.",
+            "id": "52cc990a-ad14-4d56-9465-2dccb16e6a19",
+            "is_correct": true
+          },
+          {
+            "content": "Accessor methods must always return an integer value.",
+            "id": "71fbd313-230d-4d8e-be03-3d7cce8de183",
+            "is_correct": false
+          }
+        ]
+      
+  },
+  {
+    "title": "OOP_CA3_Q21",
+        "content": "How is a destructor named in C++?",
+        "type": "mcq",
+        "difficulty": "easy",
+        "points": { "correct": 1, "incorrect": 0 },
+        "choices": [
+          {
+            "content": "Exactly same as the class name",
+            "id": "d293832c-f98c-45f7-9c2a-6e7dc04021a9",
+            "is_correct": false
+          },
+          {
+            "content": "With a tilde `~` before the class name",
+            "id": "fccc704d-7773-4c7c-8db2-4efc2dff8464",
+            "is_correct": true
+          },
+          {
+            "content": "It has a unique name",
+            "id": "442e0a98-9428-4535-8b89-aedc073e4e02",
+            "is_correct": false
+          },
+          {
+            "content": "It is named 'destroy'",
+            "id": "a36fd1b5-4228-499a-8ff3-ff0169d55640",
+            "is_correct": false
+          }
+        ]
+      
+  },
+  {
+    "title": "OOP_CA3_Q22",
+        "content": "Which constructor is automatically defined if no constructor is explicitly defined?",
+        "type": "mcq",
+        "difficulty": "easy",
+        "points": { "correct": 1, "incorrect": 0 },
+        "choices": [
+          {
+            "content": "Parameterized constructor",
+            "id": "a87833f3-d34a-4bce-aa79-b8990ebc5dcf",
+            "is_correct": false
+          },
+          {
+            "content": "Copy constructor",
+            "id": "068f9826-0f3f-4b88-b014-c27af807bd39",
+            "is_correct": false
+          },
+          {
+            "content": "Default constructor",
+            "id": "e4596c96-d91c-4c03-9b49-65f0d704ad41",
+            "is_correct": true
+          },
+          {
+            "content": "None of the above",
+            "id": "09bc99d3-7ade-4d83-b802-8c82c8313c45",
+            "is_correct": false
+          }
+        ]
+      
+  },
+  {
+    "title": "OOP_CA3_Q23",
+        "content": "What does a constructor return?",
+        "type": "mcq",
+        "difficulty": "easy",
+        "points": { "correct": 1, "incorrect": 0 },
+        "choices": [
+          {
+            "content": "An integer",
+            "id": "03cf0276-494f-4fdb-a96e-7aa59173aa68",
+            "is_correct": false
+          },
+          {
+            "content": "A boolean",
+            "id": "a0c4a1b1-6ca4-44ae-820b-4fd53ea1141f",
+            "is_correct": false
+          },
+          {
+            "content": "Void",
+            "id": "24f2bb9f-9f78-4019-8211-19bf830024e9",
+            "is_correct": false
+          },
+          {
+            "content": "Constructors do not have a return type",
+            "id": "4d38ea92-796c-4f43-a393-a5231d37559b",
+            "is_correct": true
+          }
+        ]
+      
+  },
+  {
+    "title": "OOP_CA3_Q24",
+        "content": "What is constructor overloading?",
+        "type": "mcq",
+        "difficulty": "easy",
+        "points": { "correct": 1, "incorrect": 0 },
+        "choices": [
+          {
+            "content": "Creating multiple constructors with different return types",
+            "id": "9734ac33-7cf8-4666-ae12-b99e60e29c32",
+            "is_correct": false
+          },
+          {
+            "content": "Creating a constructor with operations",
+            "id": "e1c28536-b377-4678-b7ed-b1e06bcaa125",
+            "is_correct": false
+          },
+          {
+            "content": "Defining multiple constructors with the same name but different parameters",
+            "id": "c2cc4f87-a424-4dbe-8421-0f63aa5a71e6",
+            "is_correct": true
+          },
+          {
+            "content": "Using multiple constructors in different classes",
+            "id": "44b2423e-c292-4e4e-be2a-8c72813034b0",
+            "is_correct": false
+          }
+        ]
+  },
+  {
+    "title": "OOP_CA3_Q25",
+        "content": "What is the primary purpose of a default constructor?",
+        "type": "mcq",
+        "difficulty": "easy",
+        "points": { "correct": 1, "incorrect": 0 },
+        "choices": [
+          {
+            "content": "To accept arguments",
+            "id": "36b5cc4f-dcc0-4deb-8d77-d5f7601b381b",
+            "is_correct": false
+          },
+          {
+            "content": "To initialize objects with specific values given by users",
+            "id": "ef0a23ab-2d17-4127-900b-8c8cda6e8c50",
+            "is_correct": false
+          },
+          {
+            "content": "To initialize objects without needing arguments",
+            "id": "2b59c063-80a9-4ccc-b009-cc56027b0c9e",
+            "is_correct": true
+          },
+          {
+            "content": "To copy values from another object",
+            "id": "0fa82f88-31dc-4127-ae2e-d4ec5ca2182d",
+            "is_correct": false
+          }
+        ]
+      
+  },
+  {
+    "title": "OOP_CA3_Q26",
+        "content": "What does encapsulation achieve in object-oriented programming?",
+        "type": "mcq",
+        "difficulty": "easy",
+        "points": { "correct": 1, "incorrect": 0 },
+        "choices": [
+          {
+            "content": "Makes data and methods accessible to everyone",
+            "id": "5d0beb86-fb60-4fb5-a9bd-7c1c89e48e84",
+            "is_correct": false
+          },
+          {
+            "content": "Hides complex details behind a simple interface",
+            "id": "13663936-4176-40ed-b8c5-42a2b5e47989",
+            "is_correct": true
+          },
+          {
+            "content": "Allows objects to interact directly",
+            "id": "02914b2f-c6eb-4f13-bc25-d4e186b320d4",
+            "is_correct": false
+          },
+          {
+            "content": "Improves the speed of the program",
+            "id": "26fe0168-a8da-4bcc-9096-21da4721e260",
+            "is_correct": false
+          }
+        ]
+      
+  },
+  {
+    "title": "OOP_CA3_Q27",
+        "content": "How is a copy constructor different from other constructors?",
+        "type": "mcq",
+        "difficulty": "easy",
+        "points": { "correct": 1, "incorrect": 0 },
+        "choices": [
+          {
+            "content": "It doesn't initialize new objects",
+            "id": "26c2ae50-760c-41fb-8eb8-6e80a9f2878e",
+            "is_correct": false
+          },
+          {
+            "content": "It initializes a new object using another existing object",
+            "id": "edd0d129-ed03-4c84-9431-285a38518ef1",
+            "is_correct": true
+          },
+          {
+            "content": "It only initializes static objects",
+            "id": "9256c496-45d3-496c-acdf-810e22886bd3",
+            "is_correct": false
+          },
+          {
+            "content": "It is automatically deleted after use",
+            "id": "1fd80a18-8ebe-4bcb-bdd9-fece1444ad0f",
+            "is_correct": false
+          }
+        ]
+      
+  },
+  {
+    "title": "OOP_CA3_Q28",
+        "content": "How does a destructor contribute to the stability of a software application?",
+        "type": "mcq",
+        "difficulty": "easy",
+        "points": { "correct": 1, "incorrect": 0 },
+        "choices": [
+          {
+            "content": "By creating new objects",
+            "id": "5b2bb992-a82b-4be6-b811-ec84b4c6f596",
+            "is_correct": false
+          },
+          {
+            "content": "By initializing variables",
+            "id": "0adede67-5f88-4a86-9d40-378bc6589c2b",
+            "is_correct": false
+          },
+          {
+            "content": "By freeing resources used by the object",
+            "id": "1f1b1575-13f1-4150-a1a0-2ece45958b6a",
+            "is_correct": true
+          },
+          {
+            "content": "By making the object faster",
+            "id": "011f8ecc-7e51-438a-89b7-7543c14d7fd8",
+            "is_correct": false
+          }
+        ]
+      
+  },
+  {
+    "title": "OOP_CA3_Q29",
+        "content": "What is true about destructors?",
+        "type": "mcq",
+        "difficulty": "easy",
+        "points": { "correct": 1, "incorrect": 0 },
+        "choices": [
+          {
+            "content": "They are called to create an object",
+            "id": "f0afeeb6-394b-47d7-a4bf-c80901c9df32",
+            "is_correct": false
+          },
+          {
+            "content": "They must have parameters",
+            "id": "449924f2-e214-478d-b7d1-5e76c2f6fdba",
+            "is_correct": false
+          },
+          {
+            "content": "They are called automatically when an object goes out of scope",
+            "id": "91eda038-8567-4381-b74c-b75620cf25c0",
+            "is_correct": true
+          },
+          {
+            "content": "They have a return type",
+            "id": "23bd8046-ff35-4c05-a482-f8b68c550981",
+            "is_correct": false
+          }
+        ]
+      
+  },
+  {
+    "title": "OOP_CA3_Q30",
+        "content": "What does a parameterized constructor allow?",
+        "type": "mcq",
+        "difficulty": "easy",
+        "points": { "correct": 1, "incorrect": 0 },
+        "choices": [
+          {
+            "content": "No arguments to be passed",
+            "id": "10d88cf9-5950-4bcc-8b83-62ca6f3de81b",
+            "is_correct": false
+          },
+          {
+            "content": "Initialization with specific values",
+            "id": "7846b12e-5c64-4491-a2dc-bd684d959122",
+            "is_correct": true
+          },
+          {
+            "content": "Only copies of objects to be created",
+            "id": "216d4441-3e0c-434a-97fb-0d7fb7815887",
+            "is_correct": false
+          },
+          {
+            "content": "Objects to be destroyed",
+            "id": "fe32c9c0-f9e6-4452-a87a-f44aee6b80a7",
+            "is_correct": false
+          }
+        ]
+      
+  },
+  {
+    "title": "OOP_CA3_Q31",
+        "content": "Copy constructor must receive its arguments by __________ .",
+        "type": "mcq",
+        "difficulty": "easy",
+        "points": { "correct": 1, "incorrect": 0 },
+        "choices": [
+          {
+            "content": "Either pass-by-value or pass-by-reference",
+            "id": "be79ea3a-9ff9-474f-9b73-9f1015cec8e0",
+            "is_correct": false
+          },
+          {
+            "content": "Only pass-by-value",
+            "id": "2db7b200-3661-4b69-a7d8-e0d8a6381208",
+            "is_correct": false
+          },
+          {
+            "content": "Only pass-by-reference",
+            "id": "93a44d55-900a-484a-929e-f245796c9d7e",
+            "is_correct": true
+          },
+          {
+            "content": "Only pass by address",
+            "id": "081a392a-793a-4553-aa32-611964ed4b04",
+            "is_correct": false
+          }
+        ]
+      
+  },
+  {
+    "title": "OOP_CA3_Q32",
+        "content": "Which of the following statement is correct?",
+        "type": "mcq",
+        "difficulty": "easy",
+        "points": { "correct": 1, "incorrect": 0 },
+        "choices": [
+          {
+            "content": "Destructor destroys only integer data members of the object.",
+            "id": "06699b18-583a-44fd-bf74-9114a4743cf0",
+            "is_correct": false
+          },
+          {
+            "content": "Destructor destroys only float data members of the object.",
+            "id": "c1bbf18d-c875-4522-8e7c-28bf7ace3e62",
+            "is_correct": false
+          },
+          {
+            "content": "Destructor destroys only pointer data members of the object.",
+            "id": "1d738ace-5f57-41fc-bba0-e37b26300d20",
+            "is_correct": false
+          },
+          {
+            "content": "Destructor destroys the complete object.",
+            "id": "8d29a6d5-9cc2-4b13-9253-f053cf08f8e7",
+            "is_correct": true
+          }
+        ]
+      
+  },
+  {
+    "title": "OOP_CA3_Q33",
+        "content": "A destructor takes __________ arguments.",
+        "type": "mcq",
+        "difficulty": "easy",
+        "points": { "correct": 1, "incorrect": 0 },
+        "choices": [
+          {
+            "content": "One",
+            "id": "28585bfb-beae-4091-b989-c52e05244afb",
+            "is_correct": false
+          },
+          {
+            "content": "Two",
+            "id": "8fd5d196-f0ca-49d0-9826-d79f3fd0e7e5",
+            "is_correct": false
+          },
+          {
+            "content": "Three",
+            "id": "78d2a4d6-0772-4fef-badd-bea1ff54d983",
+            "is_correct": false
+          },
+          {
+            "content": "No",
+            "id": "ea2500b2-0dc7-4813-a518-85c23f4623e0",
+            "is_correct": true
+          }
+        ]
+      
+  },
+  {
+    "title": "OOP_CA3_Q34",
+        "content": "How many times a constructor is called in the life-time of an object?",
+        "type": "mcq",
+        "difficulty": "easy",
+        "points": { "correct": 1, "incorrect": 0 },
+        "choices": [
+          {
+            "content": "Once",
+            "id": "b606491e-7085-405d-a2da-421e92ee3403",
+            "is_correct": true
+          },
+          {
+            "content": "Twice",
+            "id": "c1b7feb0-86c7-48cb-8acb-ef0f78444cd6",
+            "is_correct": false
+          },
+          {
+            "content": "Thrice",
+            "id": "9cf2e7f8-c0d9-4a32-a646-d10e1fa3bcf9",
+            "is_correct": false
+          },
+          {
+            "content": "Depending on the way an object is created",
+            "id": "4b09b015-07c9-4955-b79c-7707878e6034",
+            "is_correct": false
+          }
+        ]
+      
+  },
+  {
+    "title": "OOP_CA3_Q35",
+        "content": "Consider a vending machine as an analogy for encapsulation. The machine has internal mechanisms to process payment and dispense products, but users only interact with a simple interface (buttons for selecting products). What part of the vending machine represents data hiding?",
+        "type": "mcq",
+        "difficulty": "easy",
+        "points": { "correct": 1, "incorrect": 0 },
+        "choices": [
+          {
+            "content": "The selection buttons.",
+            "id": "201523cf-e1ef-4bde-869a-e149f871aba4",
+            "is_correct": false
+          },
+          {
+            "content": "The internal mechanism that processes the payment.",
+            "id": "68d353e5-4795-4b94-8fee-37513d69d46a",
+            "is_correct": true
+          },
+          {
+            "content": "The product that is dispensed.",
+            "id": "62e40ad2-4ffe-47c2-9042-655bbd8eed8b",
+            "is_correct": false
+          },
+          {
+            "content": "The display showing the product price.",
+            "id": "686cf55d-118c-45f8-a046-5a0ab0a3b54a",
+            "is_correct": false
+          }
+        ]
+      
+  },
+  {
+    "title": "OOP_CA3_Q36",
+        "content": "Why is it important to keep data private in a class?",
+        "type": "mcq",
+        "difficulty": "easy",
+        "points": { "correct": 1, "incorrect": 0 },
+        "choices": [
+          {
+            "content": "To speed up the program",
+            "id": "89dee2ba-fdaf-47c9-b36b-741f235711a3",
+            "is_correct": false
+          },
+          {
+            "content": "To prevent unauthorized access",
+            "id": "65da78f5-aeec-479d-b72a-b1676e75d22d",
+            "is_correct": true
+          },
+          {
+            "content": "To make data easily accessible",
+            "id": "b43d118b-227a-4964-90fb-3c70cf19270b",
+            "is_correct": false
+          },
+          {
+            "content": "To avoid creating multiple objects",
+            "id": "d39c438a-0763-4f3e-81cb-fc6971ea35cb",
+            "is_correct": false
+          }
+        ]
+      
+  },
+  {
+    "title": "OOP_CA3_Q37",
+        "content": "What is the purpose of a constructor in a class?",
+        "type": "mcq",
+        "difficulty": "easy",
+        "points": { "correct": 1, "incorrect": 0 },
+        "choices": [
+          {
+            "content": "To store data permanently",
+            "id": "90fc8508-4b25-4288-842c-ebc6a5800b3d",
+            "is_correct": false
+          },
+          {
+            "content": "To initialize an object",
+            "id": "751927c9-b6ec-4a7e-a729-33f83a2cf94f",
+            "is_correct": true
+          },
+          {
+            "content": "To copy an object",
+            "id": "a296a0a1-6f23-4f94-9d6b-bbb82da2b446",
+            "is_correct": false
+          },
+          {
+            "content": "To destroy an object",
+            "id": "c87f8f7c-c8ea-4152-8bfd-8223e73bf2b9",
+            "is_correct": false
+          }
+        ]
+      
+  },
+  {
+    "title": "OOP_CA3_Q38",
+        "content": "How is a default constructor different from a parameterized constructor?",
+        "type": "mcq",
+        "difficulty": "easy",
+        "points": { "correct": 1, "incorrect": 0 },
+        "choices": [
+          {
+            "content": "It does not initialize any data",
+            "id": "2fafafb3-6e23-4b45-adbd-442544f7454e",
+            "is_correct": false
+          },
+          {
+            "content": "It requires specific values to initialize",
+            "id": "02c3f8c8-d93e-4710-9ea9-ce483b679916",
+            "is_correct": false
+          },
+          {
+            "content": "It does not require any arguments",
+            "id": "515953a6-d0a0-4a61-ab85-72fd327881c1",
+            "is_correct": true
+          },
+          {
+            "content": "It is automatically deleted after use",
+            "id": "64b91e5a-f714-4c22-8c89-4a4b57ccb6dc",
+            "is_correct": false
+          }
+        ]
+      
+  },
+  {
+    "title": "OOP_CA3_Q39",
+        "content": "What is the role of a destructor in a program?",
+        "type": "mcq",
+        "difficulty": "easy",
+        "points": { "correct": 1, "incorrect": 0 },
+        "choices": [
+          {
+            "content": "To create new objects",
+            "id": "f959363d-0855-49f8-ad46-df9c8580b79d",
+            "is_correct": false
+          },
+          {
+            "content": "To initialize objects",
+            "id": "0e071172-d220-4122-870b-85a0d3d3cea2",
+            "is_correct": false
+          },
+          {
+            "content": "To free resources and clean up",
+            "id": "cef6acc5-3e60-4234-8ced-a64cd9d44a9d",
+            "is_correct": true
+          },
+          {
+            "content": "To modify the object’s data",
+            "id": "b85a569e-34cc-41bf-aecd-6e6513f83064",
+            "is_correct": false
+          }
+        ]
+      
+  },
+  {
+    "title": "OOP_CA3_Q40",
+        "content": "In what scenario would you use a copy constructor?",
+        "type": "mcq",
+        "difficulty": "easy",
+        "points": { "correct": 1, "incorrect": 0 },
+        "choices": [
+          {
+            "content": "To create a new object from scratch",
+            "id": "dca8c786-9235-469b-85ff-fb49c7155332",
+            "is_correct": false
+          },
+          {
+            "content": "To destroy an object",
+            "id": "e6960610-9128-41d4-9492-7ce96044080d",
+            "is_correct": false
+          },
+          {
+            "content": "To initialize a new object as a copy",
+            "id": "141db706-2223-46f5-a321-1425c427b910",
+            "is_correct": true
+          },
+          {
+            "content": "To free memory used by an object",
+            "id": "3043ad6e-ff12-4395-835f-578d6c8a2c41",
+            "is_correct": false
+          }
+        ]
+      
+  },
+  {
+    "title": "OOP_CA3_Q41",
+        "content": "What is an advantage of using encapsulation in software development?",
+        "type": "mcq",
+        "difficulty": "easy",
+        "points": { "correct": 1, "incorrect": 0 },
+        "choices": [
+          {
+            "content": "It makes the code faster",
+            "id": "06ede359-f3f4-42ba-91d1-a463128a8d05",
+            "is_correct": false
+          },
+          {
+            "content": "It simplifies the user interface",
+            "id": "383ee76c-685c-4613-9591-c47f5c1c801b",
+            "is_correct": true
+          },
+          {
+            "content": "It increases the memory usage",
+            "id": "fffd9ebd-9d36-4e57-a386-151dd10fc109",
+            "is_correct": false
+          },
+          {
+            "content": "It provides unlimited access to data",
+            "id": "a5c17568-2322-48be-9ce1-e453d7386b1d",
+            "is_correct": false
+          }
+        ]
+  },
+  {
+    "title": "OOP_CA3_Q42",
+        "content": "What would likely happen if a class did not have a destructor?",
+        "type": "mcq",
+        "difficulty": "easy",
+        "points": { "correct": 1, "incorrect": 0 },
+        "choices": [
+          {
+            "content": "The program would run faster",
+            "id": "80a08186-f8e1-4881-b25d-f88992611379",
+            "is_correct": false
+          },
+          {
+            "content": "The object would never be created",
+            "id": "fcf0197b-b442-4ad8-870a-ab0e01f555e3",
+            "is_correct": false
+          },
+          {
+            "content": "The program might have memory leaks",
+            "id": "5b7e8341-862d-4e5f-966a-f399246e4879",
+            "is_correct": true
+          },
+          {
+            "content": "The object would self-destruct automatically",
+            "id": "608a6944-9d13-408f-8704-725cff16382b",
+            "is_correct": false
+          }
+        ]
+      
+  },
+  {
+    "title": "OOP_CA3_Q43",
+        "content": "Which of the following best describes a copy constructor’s function?",
+        "type": "mcq",
+        "difficulty": "easy",
+        "points": { "correct": 1, "incorrect": 0 },
+        "choices": [
+          {
+            "content": "It increases the program speed",
+            "id": "6b17ff4e-43e5-429a-a3ca-15e2fb8f8678",
+            "is_correct": false
+          },
+          {
+            "content": "It allows objects to share data",
+            "id": "9591dc3a-5f65-48cd-b064-889f3bd89042",
+            "is_correct": false
+          },
+          {
+            "content": "It duplicates an existing object",
+            "id": "5d7a1959-54fb-48c5-ba6e-8e31f5981811",
+            "is_correct": true
+          },
+          {
+            "content": "It initializes data with default values",
+            "id": "23fde631-880d-40b6-9129-cb05da9cffd4",
+            "is_correct": false
+          }
+        ]
+      
+  },
+  {
+    "title": "OOP_CA3_Q44",
+        "content": "How does encapsulation benefit data security in a program?",
+        "type": "mcq",
+        "difficulty": "easy",
+        "points": { "correct": 1, "incorrect": 0 },
+        "choices": [
+          {
+            "content": "By allowing direct access to all data",
+            "id": "de965336-e006-499a-b637-6364009457fc",
+            "is_correct": false
+          },
+          {
+            "content": "By making data available only through specific methods",
+            "id": "3feec532-877b-45f5-8204-346f2043662d",
+            "is_correct": true
+          },
+          {
+            "content": "By storing data in separate locations",
+            "id": "10a0eafe-8d55-43a2-8c1b-c493c980c6aa",
+            "is_correct": false
+          },
+          {
+            "content": "By removing all private data",
+            "id": "b2a5e231-760a-440f-bb15-f967b684330c",
+            "is_correct": false
+          }
+        ]
+      
+  },
+  {
+    "title": "OOP_CA3_Q45",
+        "content": "What does a constructor typically do when an object is created?",
+        "type": "mcq",
+        "difficulty": "easy",
+        "points": { "correct": 1, "incorrect": 0 },
+        "choices": [
+          {
+            "content": "It deletes the object",
+            "id": "3392bf05-5071-466b-9cbd-11399489488b",
+            "is_correct": false
+          },
+          {
+            "content": "It copies the object",
+            "id": "d894e528-2890-4d37-b2af-87adcbdd5f6b",
+            "is_correct": false
+          },
+          {
+            "content": "It initializes the object’s attributes",
+            "id": "3183babb-25f8-47af-8657-13890383161a",
+            "is_correct": true
+          },
+          {
+            "content": "It permanently stores the object",
+            "id": "beeb2a12-73bc-4fc1-bb0f-0d2b118c7add",
+            "is_correct": false
+          }
+        ]
+      
+  },
+  {
+    "title": "OOP_CA3_Q46",
+        "content": "A car’s dashboard allows the driver to see important information like speed and fuel levels, but the driver cannot see or modify the car's internal engine mechanics directly. What aspect of OOP does this represent?",
+        "type": "mcq",
+        "difficulty": "easy",
+        "points": { "correct": 1, "incorrect": 0 },
+        "choices": [
+          {
+            "content": "Inheritance",
+            "id": "c4e23748-b35a-4daa-9bfb-a66d8911992c",
+            "is_correct": false
+          },
+          {
+            "content": "Polymorphism",
+            "id": "32624c15-8f21-4dda-ab50-31bbd8979a56",
+            "is_correct": false
+          },
+          {
+            "content": "Data hiding",
+            "id": "29f244ea-835f-4385-8ea9-d35085337f66",
+            "is_correct": true
+          },
+          {
+            "content": "Classes and objects",
+            "id": "0ef51e22-ba94-4fd7-af4f-eda0ecb56c92",
+            "is_correct": false
+          }
+        ]
+      
+  },
+  {
+    "title": "OOP_CA3_Q47",
+        "content": "Why might you want to use a parameterized constructor?",
+        "type": "mcq",
+        "difficulty": "easy",
+        "points": { "correct": 1, "incorrect": 0 },
+        "choices": [
+          {
+            "content": "To initialize an object with specific values",
+            "id": "4dcce191-8c00-4c73-8c6e-f49ad6a95b00",
+            "is_correct": true
+          },
+          {
+            "content": "To prevent the object from being copied",
+            "id": "7918d791-3444-413d-8f6c-5b131fd895e5",
+            "is_correct": false
+          },
+          {
+            "content": "To destroy an object",
+            "id": "476dc984-3dc1-45e1-b6b3-47ab70c13c0e",
+            "is_correct": false
+          },
+          {
+            "content": "To avoid initializing the object",
+            "id": "779c9544-dc6c-47ab-bbd3-4ddb3fb6e157",
+            "is_correct": false
+          }
+        ]
+      
+  },
+  {
+    "title": "OOP_CA3_Q48",
+        "content": "What happens if a class with resources like memory or files doesn’t have a destructor?",
+        "type": "mcq",
+        "difficulty": "easy",
+        "points": { "correct": 1, "incorrect": 0 },
+        "choices": [
+          {
+            "content": "The program runs more efficiently",
+            "id": "986593b5-f7f5-42aa-bd91-1b1111b40fcc",
+            "is_correct": false
+          },
+          {
+            "content": "The resources might not be released properly",
+            "id": "64fcbe19-adc1-4cac-9bf7-b0ebcb9b5510",
+            "is_correct": true
+          },
+          {
+            "content": "The resources are automatically freed",
+            "id": "79c5ec17-95e7-4750-9d59-46209d417491",
+            "is_correct": false
+          },
+          {
+            "content": "The program will not compile",
+            "id": "a62b47fc-9e0c-4b97-ae84-1090d350fbc9",
+            "is_correct": false
+          }
+        ]
+      
+  },
+  {
+    "title": "OOP_CA3_Q49",
+        "content": "Which of the following is a good analogy for encapsulation?",
+        "type": "mcq",
+        "difficulty": "easy",
+        "points": { "correct": 1, "incorrect": 0 },
+        "choices": [
+          {
+            "content": "A transparent glass box",
+            "id": "f9603088-6374-4ac5-8366-a2b5e1f70980",
+            "is_correct": false
+          },
+          {
+            "content": "A user-friendly smartphone interface",
+            "id": "991681ce-0377-4b03-845b-dfa2e8c747a6",
+            "is_correct": true
+          },
+          {
+            "content": "A bookshelf where anyone can take books",
+            "id": "1e75065e-fd5e-412c-a46f-7779474d5459",
+            "is_correct": false
+          },
+          {
+            "content": "An open-source code library",
+            "id": "6932054e-bb35-4402-80ea-182fe24a210a",
+            "is_correct": false
+          }
+        ]
+      
+  },
+  {
+    "title": "OOP_CA3_Q50",
+        "content": "Which of the following statements about data hiding is true?",
+        "type": "mcq",
+        "difficulty": "easy",
+        "points": { "correct": 1, "incorrect": 0 },
+        "choices": [
+          {
+            "content": "Data hiding restricts direct access to class methods.",
+            "id": "d136df87-e78f-4905-89ce-8b021a0410ab",
+            "is_correct": false
+          },
+          {
+            "content": "Data hiding allows unrestricted access to all class members.",
+            "id": "08862a6b-4456-4231-b1c2-8a4817953e92",
+            "is_correct": false
+          },
+          {
+            "content": "Data hiding involves exposing class implementation details.",
+            "id": "8570a2f4-1c7d-400c-9960-acbebfaadb59",
+            "is_correct": false
+          },
+          {
+            "content": "Data hiding protects object integrity by restricting access to class members.",
+            "id": "eb6ff27e-eef5-4b3c-9c47-275e9b8e47e8",
+            "is_correct": true
+          }
+        ]
+      
+  }
+]
